@@ -1,0 +1,161 @@
+[
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "Hello Elon, this is a test",
+    "timestamp": "2025-05-28T17:23:02.867Z",
+    "date": "2025-05-28",
+    "messageTs": "1748452971.607869"
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I created a new bot\n\nI worked on the messaging\n\nI help people resolve their issue",
+    "timestamp": "2025-05-28T17:28:34.746Z",
+    "date": "2025-05-28",
+    "messageTs": "1748451672.183379",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot",
+    "timestamp": "2025-05-28T17:28:35.152Z",
+    "date": "2025-05-28",
+    "messageTs": "1748452813.362819",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I created a new bot\n\nI worked on the messaging\n\nI help people resolve their issue",
+    "timestamp": "2025-05-29T21:38:14.583Z",
+    "date": "2025-05-29",
+    "messageTs": "1748451672.183379",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot",
+    "timestamp": "2025-05-29T21:38:15.077Z",
+    "date": "2025-05-29",
+    "messageTs": "1748452813.362819",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot to help with copywriting",
+    "timestamp": "2025-05-29T21:38:15.667Z",
+    "date": "2025-05-29",
+    "messageTs": "1748455625.792169",
+    "threadTs": "1748383523.133419",
+    "originalElonMessage": ":zap: **TESLA-POWERED PRODUCTIVITY CHECK** :zap:\n\nMarnie, it's time to charge up your daily report! ..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I launch a new bot for copywriting\n\nI need to work on completing a few backlog tasks\n\nI plan on helping Alan with other bots",
+    "timestamp": "2025-05-29T21:46:45.451Z",
+    "date": "2025-05-29",
+    "messageTs": "1748555193.685679",
+    "threadTs": "1748555126.893519",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I launch a new bot for copywriting\n\nI need to work on completing a few backlog tasks\n\nI plan on helping Alan with other bots",
+    "timestamp": "2025-05-29T22:18:19.231Z",
+    "date": "2025-05-29",
+    "messageTs": "1748555193.685679",
+    "threadTs": "1748555126.893519",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I created a new bot\n\nI worked on the messaging\n\nI help people resolve their issue",
+    "timestamp": "2025-05-29T22:18:19.886Z",
+    "date": "2025-05-29",
+    "messageTs": "1748451672.183379",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot",
+    "timestamp": "2025-05-29T22:18:20.537Z",
+    "date": "2025-05-29",
+    "messageTs": "1748452813.362819",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot to help with copywriting",
+    "timestamp": "2025-05-29T22:18:21.303Z",
+    "date": "2025-05-29",
+    "messageTs": "1748455625.792169",
+    "threadTs": "1748383523.133419",
+    "originalElonMessage": ":zap: **TESLA-POWERED PRODUCTIVITY CHECK** :zap:\n\nMarnie, it's time to charge up your daily report! ..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I launch a new bot for copywriting\n\nI need to work on completing a few backlog tasks\n\nI plan on helping Alan with other bots",
+    "timestamp": "2025-05-30T13:07:37.323Z",
+    "date": "2025-05-30",
+    "messageTs": "1748555193.685679",
+    "threadTs": "1748555126.893519",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "I created a new bot\n\nI worked on the messaging\n\nI help people resolve their issue",
+    "timestamp": "2025-05-30T13:07:38.196Z",
+    "date": "2025-05-30",
+    "messageTs": "1748451672.183379",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot",
+    "timestamp": "2025-05-30T13:07:38.574Z",
+    "date": "2025-05-30",
+    "messageTs": "1748452813.362819",
+    "threadTs": "1748450202.556319",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i created a bot to help with copywriting",
+    "timestamp": "2025-05-30T13:07:39.213Z",
+    "date": "2025-05-30",
+    "messageTs": "1748455625.792169",
+    "threadTs": "1748383523.133419",
+    "originalElonMessage": ":zap: **TESLA-POWERED PRODUCTIVITY CHECK** :zap:\n\nMarnie, it's time to charge up your daily report! ..."
+  },
+  {
+    "slackId": "U078UMV769F",
+    "employeeName": "Marnie",
+    "message": "i am working on your improvement",
+    "elonResponse": "Marnie,\n\nFirst things first, let's analyze what you've shared and identify the critical path forward. You've outlined several initiatives, but we need to ensure each one is driving measurable impact.\n\n**Regarding: \"i am working on your improvement\"**\n\n**Set Hard Deadlines:** \"Working on\" without a deadline is procrastination. Define exactly when this will be complete and what \"done\" looks like. Break it into weekly milestones with specific deliverables.\n\n**Resource Allocation:** Ensure you're putting your best resources on this. If it's important enough to mention, it should have dedicated time and talent. Half-efforts produce half-results.\n\n**Progress Tracking:** Implement daily check-ins on progress. Use a simple red/yellow/green status system. If something is yellow for more than 2 days, it needs immediate intervention.\n\n**Opportunity Cost:** Consider what you're NOT doing while working on this. Is this the highest-leverage activity? If not, delegate or deprioritize immediately.\n\n**Immediate Action Plan:**\n\n1. **Prioritize Ruthlessly:** Focus on the 2-3 initiatives that will have the most immediate impact. Everything else goes on hold.\n\n2. **Set Weekly Targets:** Break down each priority into weekly deliverables. Friday reviews should show clear progress or trigger immediate course correction.\n\n3. **Measure Everything:** If you're not measuring it, you're not managing it. Implement dashboards for all key metrics by end of next week.\n\n4. **Eliminate Friction:** Identify and remove any obstacles slowing progress. This includes underperforming team members, inefficient processes, or unclear objectives.\n\n5. **Accelerate Learning:** Fail fast and learn faster. Each week should produce new insights that inform the next week's strategy.\n\n**Your Accountability Commitments:**\n\n📅 **Tomorrow by 10 AM:** Send me your top 3 priorities with specific metrics for each.\n\n📊 **End of Week:** Report actual results vs. targets. No excuses, just data.\n\n🎯 **Next Monday:** Present your revised strategy based on this week's learnings.\n\n⏰ **Daily Check-in:** Reply to tomorrow's 4:30 PM message with concrete progress on each priority.\n\n❌ **Consequence:** If you miss two daily check-ins, we need to reassess your commitment level.\n\nStay focused and relentless. Your success depends on your ability to execute with precision and speed. The market won't wait for you to figure it out. Move fast, measure results, and adjust rapidly.\n\nReport back with concrete metrics and learnings, not just activities.\n\n- Elon",
+    "timestamp": "2025-05-30T14:16:29.496Z",
+    "date": "2025-05-30",
+    "messageTs": "1748614583.147869",
+    "threadTs": "1748614538.495539",
+    "originalElonMessage": ":milky_way: **STARSHIP DAILY LOG** :milky_way:\n\nMission Commander Marnie, \n\nTime for your end-of-day..."
+  }
+]

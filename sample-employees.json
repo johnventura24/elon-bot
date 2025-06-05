@@ -1,0 +1,23 @@
+[
+  {
+    "slackId": "U01ABC123DE",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "department": "Engineering",
+    "active": true
+  },
+  {
+    "slackId": "U02DEF456GH",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "department": "Marketing",
+    "active": true
+  },
+  {
+    "slackId": "U03GHI789JK",
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "department": "Product",
+    "active": true
+  }
+] 
