@@ -1,0 +1,23 @@
+[
+  {
+    "slackId": "U078UMV769F",
+    "name": "Marnie",
+    "email": "marnie@adsyncmedia.com",
+    "department": "Management",
+    "active": true
+  },
+  {
+    "slackId": "U02L4D5TED6",
+    "name": "John",
+    "email": "ventura@adsyncmedia.com",
+    "department": "Management",
+    "active": true
+  },
+  {
+    "slackId": "U07SEU8ENDA",
+    "name": "Alan",
+    "email": "alan@adsyncmedia.com",
+    "department": "Management",
+    "active": true
+  }
+] 
